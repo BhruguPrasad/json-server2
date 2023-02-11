@@ -1,6 +1,12 @@
 {
     "users":[
-        
+        {
+    "name": "hello",
+    "img": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    "email": "hello@gmail.com",
+    "password": "123",
+    "id": 1
+  }
     ],
     "blogs":[
   {
